@@ -12,6 +12,8 @@ export default function Index() {
       }}
     >
       <Profile
+        labelText={`John Smith`}
+
         bioText={`Hi, I'm John Smith, a 40-year-old tech enthusiast and father of two energetic kids. By day, I work as a systems analyst for a mid-sized company, making sure all the gears run smoothly in the world of databases and networks. I’ve always had a passion for figuring out how things work, whether it's the latest gadget or the inner workings of a complex system.
 
 Outside of work, I’m all about balance. I spend my weekends hiking with my family, exploring new trails, and staying connected with nature. I’m also a huge fan of classic rock (still can’t get enough of The Rolling Stones), and I love tinkering with vintage guitars in my spare time.
